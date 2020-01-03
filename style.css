@@ -1,0 +1,19 @@
+@import url('http://fonts.googleapis.com/css?family=Oswald');
+h1, h2{ text-align:center; }
+h1{
+  color:rgba(100, 50, 255, .8);
+  font-family: 'Nunito', sans-serif;
+  color:#212121;
+  font-size: 25px;
+}
+.texto {
+  font-family: 'Pacifico', cursive;
+  font-size: 17px;
+}
+body{
+  background-image: url('https://i.imgur.com/Us2LCuT.gif');
+  background-size: cover; 
+  height: 100vh;
+  padding:0;
+  margin:0;
+}
