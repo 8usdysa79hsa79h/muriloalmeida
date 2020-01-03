@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/8usdysa79hsa79h/muriloalmeida/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/8usdysa79hsa79h/muriloalmeida/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+<head>
+<link rel="icon" href="https://cdn.icon-icons.com/icons2/630/PNG/512/whistle_icon-icons.com_57895.png">
+<link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<title>VOZ DE APITO!</title>
+</head>
+<body>
+</body>
+<embed src="braba.mp3" autostart="true" loop="true" hidden="true">  
+    <center>
+       <br><br>
+       <h1>Murilo Exposed</h1>
+        <img src="https://i.imgur.com/dfTTeKs.jpg"height="150" width="150">
+    <h2 class="texto">Vulgo: TioHero, Lekster, UnknownBlack</h2>
+    <h3 class="texto">Murilo é um peso morto na sua familia com 19 anos vive com a mãe<br>ainda é sustentado pelos pais.</h3>
+    <h4 class="texto">Nome do lammer: MURILO DE ALMEIDA TAVARES</h4>
+    <h4 class="texto">Nome da mae: SILVANA DE ALMEIDA</h4>
+    <h4 class="texto">Nome do pai: não registrou o resto de aborto(kkkk)</h4>
+    <h4 class="texto">Sexo: Maculino</h4>
+    <h4 class="texto">Data de nascimento: 02/03/2000</h4>
+    <h4 class="texto">Pais: BRASIL</h4>
+    <h4 class="texto">CPF: 510.182.808-47</h4>
+    <h4 class="texto">Estado: SAO PAULO - SP</h4>
+    <h4 class="texto">Endereço: Rua Modesto de Sousa 383, Parque Cruzeiro do Sul</h4>
+    <h4 class="texto">CEP: 08070340</h4>
+    
+    </center>
+</html>
